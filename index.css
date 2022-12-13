@@ -28,6 +28,7 @@ input, button {
 button {
     background-color: gray;
     color: white;
+    cursor: pointer;
 }
 
 @media (max-width: 600px) {
